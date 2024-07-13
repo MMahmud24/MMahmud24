@@ -2,21 +2,21 @@
 
 I'm an aspiring developer with a focus on full stack development and software programming. I have a deep understanding of HTML, CSS, JavaScript, Java, and Lua.
 
-Here are some of my finished projects:
+<strong>Here are some of my finished projects:</strong>
 <br><br>
-Web Development
+<em>Web Development</em>
 <ul>
   <li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
 </ul>
 
 <br><br>
-Java
+<em>Java</em>
 <ul>
   <li><a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a></li>
 </ul>
 <br><br>
 
-Here are some projects I am currently working on:
+<strong>Here are some projects I am currently working on:</strong>
 
 <!--
 **MMahmud24/MMahmud24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
