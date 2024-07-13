@@ -5,11 +5,14 @@ I'm an aspiring developer with a focus on full stack development and software pr
 Here are some of my finished projects:
 
 Web Development
-<a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a>
+<ul>
+  <li></li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
+</ul>
 
 Java
-<a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a>
-
+<ul>
+  <li></li><a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a></li>
+</ul>
 
 Here are some projects I am currently working on:
 
