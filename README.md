@@ -3,18 +3,18 @@
 I'm an aspiring developer with a focus on full stack development and software programming. I have a deep understanding of HTML, CSS, JavaScript, Java, and Lua.
 
 Here are some of my finished projects:
-
+<br><br>
 Web Development
 <ul>
   <li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
 </ul>
 
-
+<br><br>
 Java
 <ul>
   <li><a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a></li>
 </ul>
-
+<br><br>
 
 Here are some projects I am currently working on:
 
