@@ -1,6 +1,17 @@
 ## Hi, I'm Mahin Mahmud 👋
 
-I'm an aspiring developer with a focus on full stack development and software programming. 
+I'm an aspiring developer with a focus on full stack development and software programming. I have a deep understanding of HTML, CSS, JavaScript, Java, and Lua.
+
+Here are some of my finished projects:
+
+Web Development
+<a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a>
+
+Java
+<a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a>
+
+
+Here are some projects I am currently working on:
 
 <!--
 **MMahmud24/MMahmud24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
