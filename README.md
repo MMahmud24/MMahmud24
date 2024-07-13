@@ -6,12 +6,12 @@ Here are some of my finished projects:
 
 Web Development
 <ul>
-  <li></li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
+  <li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
 </ul>
 
 Java
 <ul>
-  <li></li><a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a></li>
+  <li><a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a></li>
 </ul>
 
 Here are some projects I am currently working on:
