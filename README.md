@@ -1,6 +1,6 @@
 ## Hi, I'm Mahin Mahmud 👋
 
-Current Projects:
+I'm an aspiring developer with a focus on full stack development and software programming. 
 
 <!--
 **MMahmud24/MMahmud24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
