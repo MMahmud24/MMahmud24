@@ -9,10 +9,12 @@ Web Development
   <li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
 </ul>
 
+
 Java
 <ul>
   <li><a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a></li>
 </ul>
+
 
 Here are some projects I am currently working on:
 
