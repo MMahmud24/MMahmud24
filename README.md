@@ -21,6 +21,7 @@ I'm an aspiring developer with a focus on full stack development and software pr
 <ul>
   <li><a href="https://github.com/MMahmud24/Projects/tree/main/GUI_Calculator">GUI Calculator using Tkinter</a></li>
 </ul>
+<br><br>
 
 <em>JavaScript</em>
 <ul>
