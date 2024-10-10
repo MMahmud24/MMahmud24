@@ -17,6 +17,11 @@ I'm an aspiring developer with a focus on full stack development and software pr
 </ul>
 <br><br>
 
+<em>Python</em>
+<ul>
+  <li><a href="https://github.com/MMahmud24/Projects/tree/main/GUI_Calculator">GUI Calculator using Tkinter</a></li>
+</ul>
+
 <em>JavaScript</em>
 <ul>
   <li><a href="https://github.com/MMahmud24/Projects/tree/main/message-gen">Random Message Generator</li>
