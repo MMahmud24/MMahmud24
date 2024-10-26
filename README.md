@@ -1,6 +1,6 @@
 ## Hi, I'm Mahin Mahmud 👋
 
-I'm an aspiring developer with a focus on full stack development and software programming. I am proficient in HTML, CSS, JavaScript, Java, and Lua.
+I'm an aspiring developer with a focus on full stack development and software programming. I am proficient in HTML, CSS, JavaScript, Java, and Python.
 
 <strong>Here are some of my finished projects:</strong>
 <br><br>
