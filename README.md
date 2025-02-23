@@ -10,6 +10,11 @@ I'm an aspiring developer with a focus on full stack development and software pr
   <li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
   <li><a href="https://github.com/MMahmud24/Affordable-Food-Blog"</a>Affordable Food in NYC Blog</li>
 </ul>
+<br><br>
+<em>Data Science/Analytics</em>
+<ul>
+  <li><a href="https://github.com/MMahmud24/LifeExpectencyGDP_Visual">Life Expectancy V.S. GDP In Different Countries</a></li>
+</ul>
 
 <br><br>
 <em>Java</em>
