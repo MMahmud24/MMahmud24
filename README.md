@@ -17,6 +17,10 @@ I'm an aspiring developer with a focus on full stack development and software pr
 </ul>
 
 <br><br>
+<em>Software Development</em>
+<ul>
+  <li><a href="https://github.com/MMahmud24/Projects/tree/main/Notes_App">Notes Application using Flask and SQL</a></li>
+</ul>
 <em>Java</em>
 <ul>
   <li><a href="https://github.com/MMahmud24/APCSA-FinalProject">Tetris</a></li>
@@ -27,7 +31,6 @@ I'm an aspiring developer with a focus on full stack development and software pr
 <ul>
   <li><a href="https://github.com/MMahmud24/Projects/tree/main/GUI_Calculator">GUI Calculator using Tkinter</a></li>
   <li><a href="https://github.com/MMahmud24/Projects/tree/main/GUI_Unit_Converter">GUI Unit Converter using Tkinter</a></li>
-  <li><a href="https://github.com/MMahmud24/Projects/tree/main/Notes_App">Notes Application using Flask and SQL</a></li>
 </ul>
 <br><br>
 
