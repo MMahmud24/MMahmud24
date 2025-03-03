@@ -4,11 +4,10 @@ I'm an aspiring developer with a focus on full stack development and software pr
 
 <strong>Here are some of my finished projects:</strong>
 <br><br>
-<em>Web Development</em>
+<em>Software Development</em>
 <ul>
-  <li><a href="https://github.com/MMahmud24/Personal_Website">Personal Website</a></li>
+  <li><a href="https://github.com/MMahmud24/Projects/tree/main/Notes_App">Notes Application using Flask and SQL</a></li>
   <li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
-  <li><a href="https://github.com/MMahmud24/Affordable-Food-Blog"</a>Affordable Food in NYC Blog</li>
 </ul>
 <br><br>
 <em>Data Science/Analytics</em>
@@ -17,9 +16,11 @@ I'm an aspiring developer with a focus on full stack development and software pr
 </ul>
 
 <br><br>
-<em>Software Development</em>
+
+<em>Web Development</em>
 <ul>
-  <li><a href="https://github.com/MMahmud24/Projects/tree/main/Notes_App">Notes Application using Flask and SQL</a></li>
+  <li><a href="https://github.com/MMahmud24/Personal_Website">Personal Website</a></li>
+  <li><a href="https://github.com/MMahmud24/Affordable-Food-Blog"</a>Affordable Food in NYC Blog</li>
 </ul>
 
 <br><br>
