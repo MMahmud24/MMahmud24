@@ -6,7 +6,7 @@ I'm an aspiring developer with a focus on full stack development and software pr
 <br><br>
 <em>Software Development</em>
 <ul>
-  <li><a href="https://github.com/MMahmud24/Projects/tree/main/notes_university">University Notes Sharing Application using MERN Stack</a></li>
+  <li><a href="https://github.com/MMahmud24/notes_university">University Notes Sharing Application using MERN Stack</a></li>
   <li><a href="https://github.com/MMahmud24/Projects/tree/main/Notes_App">Notes Application using Flask and SQL</a></li>
   <li><a href="https://github.com/MMahmud24/ASC-DemoDay-Project">Weather Application</a></li>
 </ul>
