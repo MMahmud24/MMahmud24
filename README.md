@@ -13,6 +13,7 @@ I'm an aspiring developer with a focus on full stack development and software pr
 <br><br>
 <em>Data Science/Analytics</em>
 <ul>
+  <li><a href="https://github.com/MMahmud24/taxi-price-predictor">NYC Taxi Fare Predictor</a></li>
   <li><a href="https://github.com/MMahmud24/LifeExpectencyGDP_Visual">Data Visualization of Life Expectancy V.S. GDP In Different Countries</a></li>
 </ul>
 
