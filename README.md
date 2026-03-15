@@ -21,7 +21,7 @@ I'm an aspiring developer with a focus on full stack development and software pr
 
 <em>Web Development</em>
 <ul>
-  <li><a href="https://github.com/MMahmud24/Personal_Website](https://github.com/MMahmud24/personal_portfolio">Personal Website</a></li>
+  <li><a href="https://github.com/MMahmud24/personal_portfolio">Personal Website</a></li>
   <li><a href="https://github.com/MMahmud24/Affordable-Food-Blog"</a>Affordable Food in NYC Blog</li>
 </ul>
 
