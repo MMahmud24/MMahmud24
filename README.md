@@ -68,17 +68,6 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.90) with a f
 
 ---
 
-## Professional Experience
-
-### 🏢 Muslim Interscholastic Tournament — Software Developer
-*August 2025 – Present | New York, NY*
-
-- Maintained and enhanced a **production event management platform** serving **2,000+ users** by refactoring React.js and Node.js components under Agile workflows
-- Built a **Flask analytics dashboard** integrating a GraphQL API to process **1,000+ real-time engagement score records** with pandas, giving 20+ schools instant visibility into event performance
-- Eliminated API bottlenecks during peak traffic using **APScheduler-based caching**, sustaining sub-second page response times during live events
-
----
-
 ## Projects
 
 ### 🏆 Hackathon Projects
@@ -118,17 +107,6 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.90) with a f
 | [GUI Calculator](https://github.com/MMahmud24/Projects/tree/main/GUI_Calculator) | Desktop calculator with graphical interface | Python, Tkinter |
 | [GUI Unit Converter](https://github.com/MMahmud24/Projects/tree/main/GUI_Unit_Converter) | Desktop unit conversion tool | Python, Tkinter |
 | [Random Message Generator](https://github.com/MMahmud24/Projects/tree/main/message-gen) | Generates randomized messages for various use cases | JavaScript |
-
----
-
-## Leadership
-
-### 🎯 StackHacks — Technology Director
-*May 2025 – Present | Vestal, NY*
-
-- Led end-to-end technical execution of **10+ workshops** driving **150+ participant engagements**
-- Built a data-driven engagement metrics system that compounded member participation growth by **25% semester-over-semester**
-- Architected the club's technical infrastructure with a partnership framework across **10+ student organizations**
 
 ---
 
