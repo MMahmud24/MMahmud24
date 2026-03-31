@@ -74,8 +74,8 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.90) with a f
 
 | Project | Event | Description | Stack |
 |---|---|---|---|
-| [ClipBook](https://github.com/MMahmud24) | YHack 2026 | AI pipeline that ingests physical instruction manuals via OCR and auto-generates animated MP4 video tutorials | Remotion, Google Cloud Vision, Gemini, Cloudflare R2, React/Vite, TypeScript |
-| [Brain Invaders](https://github.com/MMahmud24) *Best First-Time Hack* | HackRPI 2025 | Cognitive training game tracking 5+ behavioral metrics per session with adaptive difficulty and real-time feedback loops | Flask, Chart.js, JavaScript |
+| [ClipBook](https://github.com/MMahmud24/Clipbook) | YHack 2026 | AI pipeline that ingests physical instruction manuals via OCR and auto-generates animated MP4 video tutorials | Remotion, Google Cloud Vision, Gemini, Cloudflare R2, React/Vite, TypeScript |
+| [Brain Invaders](https://github.com/deyan-reza/BrainInvaders) *Best First-Time Hack* | HackRPI 2025 | Cognitive training game tracking 5+ behavioral metrics per session with adaptive difficulty and real-time feedback loops | Flask, Chart.js, JavaScript |
 
 ### Full Stack & Software Development
 
