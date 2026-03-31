@@ -17,10 +17,10 @@
 
 I'm a Computer Science student at **Binghamton University** (GPA: 3.90) with a focus on **full stack development**, **machine learning**, and building things people actually use. From hackathon wins to production platforms serving thousands of users, I love turning ideas into working software fast.
 
-- 🏆 **Won Best First-Time Hack** at HackRPI 2025
-- 🚀 Currently building at **Muslim Interscholastic Tournament** — production platform, 2,000+ users
-- 🎓 B.S. Computer Science, Expected May 2028
-- 🤝 Open to internships and new grad opportunities
+- **Won Best First-Time Hack** at HackRPI 2025
+- Currently building at **Muslim Interscholastic Tournament** — production platform, 2,000+ users
+- B.S. Computer Science, Expected May 2028
+- Open to internships and new grad opportunities
 
 ---
 
@@ -70,14 +70,14 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.90) with a f
 
 ## Projects
 
-### 🏆 Hackathon Projects
+### Hackathon Projects
 
 | Project | Event | Description | Stack |
 |---|---|---|---|
 | [ClipBook](https://github.com/MMahmud24) | YHack 2026 | AI pipeline that ingests physical instruction manuals via OCR and auto-generates animated MP4 video tutorials | Remotion, Google Cloud Vision, Gemini, Cloudflare R2, React/Vite, TypeScript |
-| [Brain Invaders](https://github.com/MMahmud24) ⭐ *Best First-Time Hack* | HackRPI 2025 | Cognitive training game tracking 5+ behavioral metrics per session with adaptive difficulty and real-time feedback loops | Flask, Chart.js, JavaScript |
+| [Brain Invaders](https://github.com/MMahmud24) *Best First-Time Hack* | HackRPI 2025 | Cognitive training game tracking 5+ behavioral metrics per session with adaptive difficulty and real-time feedback loops | Flask, Chart.js, JavaScript |
 
-### 💻 Full Stack & Software Development
+### Full Stack & Software Development
 
 | Project | Description | Stack |
 |---|---|---|
@@ -85,21 +85,21 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.90) with a f
 | [Notes Application](https://github.com/MMahmud24/Projects/tree/main/Notes_App) | Web app for creating and managing personal notes | Flask, SQL |
 | [Weather Application](https://github.com/MMahmud24/ASC-DemoDay-Project) | Real-time weather lookup app | JavaScript, REST API |
 
-### 📊 Data Science & Machine Learning
+### Data Science & Machine Learning
 
 | Project | Description | Stack |
 |---|---|---|
 | [NYC Taxi Fare Predictor](https://github.com/MMahmud24/taxi-price-predictor) | End-to-end ML pipeline on 700,000+ records; Gradient Boosting model achieving **R² of 0.92**, outperforming linear baseline by 18% | Python, Scikit-learn, pandas |
 | [Life Expectancy vs. GDP Visualization](https://github.com/MMahmud24/LifeExpectencyGDP_Visual) | Interactive data visualization comparing life expectancy and GDP across countries | Python, Matplotlib |
 
-### 🌐 Web Development
+### Web Development
 
 | Project | Description | Stack |
 |---|---|---|
 | [Personal Portfolio](https://github.com/MMahmud24/personal_portfolio) | Personal website showcasing projects and skills | HTML, CSS, JavaScript |
 | [Affordable Food in NYC Blog](https://github.com/MMahmud24/Affordable-Food-Blog) | Blog highlighting budget-friendly food options in New York City | HTML, CSS |
 
-### ☕ Java & 🐍 Python
+### Java & Python
 
 | Project | Description | Stack |
 |---|---|---|
@@ -112,6 +112,5 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.90) with a f
 
 <div align="center">
 
-*Thanks for stopping by — feel free to explore my repositories and reach out!*
 
 </div>
