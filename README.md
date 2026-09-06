@@ -126,7 +126,7 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.90) with a f
 
 | Project | Event | Description | Stack |
 |---|---|---|---|
-| [Ratatouille](https://github.com/MMahmud24) | HackPrinceton 2026 | Full-stack real-time auction marketplace for near-expiry groceries with race-safe SQL bid settlement, off-session card charging, and an automated OCR-based food listing pipeline with sub-60-second listings and real-time bid alerts | Next.js, Postgres, Stripe, Google OAuth, Google Cloud Vision, IndexedDB |
+| [Ratatouille](https://github.com/Sadat246/ratatouille) | HackPrinceton 2026 | Full-stack real-time auction marketplace for near-expiry groceries with race-safe SQL bid settlement, off-session card charging, and an automated OCR-based food listing pipeline with sub-60-second listings and real-time bid alerts | Next.js, Postgres, Stripe, Google OAuth, Google Cloud Vision, IndexedDB |
 | [ClipBook](https://github.com/MMahmud24/Clipbook) | YHack 2026 | AI pipeline that ingests physical instruction manuals via OCR and auto-generates animated MP4 video tutorials | Remotion, Google Cloud Vision, Gemini, Cloudflare R2, React/Vite, TypeScript |
 | [Brain Invaders](https://github.com/deyan-reza/BrainInvaders) *Best First-Time Hack* | HackRPI 2025 | Cognitive training game tracking 5+ behavioral metrics per session with adaptive difficulty and real-time feedback loops | Flask, Chart.js, JavaScript |
 
